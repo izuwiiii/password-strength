@@ -1,0 +1,16 @@
+input {
+    width: 360px;
+    height: 60px;
+}
+
+.wrapper {
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+
+    span {
+        background-color: gray;
+        width: 102px;
+        height: 5px;
+    }
+}
